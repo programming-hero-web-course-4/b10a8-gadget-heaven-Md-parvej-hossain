@@ -1,0 +1,167 @@
+[
+  {
+    "product_id": "L001",
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co.com/LCmqBDC/laptop-wooden-table.jpg",
+    "category": "Laptops",
+    "price": 67,
+    "description": "High-performance gaming laptop with NVIDIA RTX graphics and Intel i7 processor.",
+    "specification": [
+      { "key": "Processor", "value": "Intel Core i7" },
+      { "key": "Graphics Card", "value": "NVIDIA RTX 3060" },
+      { "key": "RAM", "value": "16GB" },
+      { "key": "Storage", "value": "1TB SSD" },
+      { "key": "Screen Size", "value": "15.6 inches" }
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P001",
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co.com/xqxYGyM/elegant-smartphone-composition.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "Latest Apple iPhone 14 Pro with advanced camera system and A16 Bionic chip.",
+    "specification": [
+      { "key": "Screen Size", "value": "6.1 inches" },
+      { "key": "Storage Options", "value": "128GB, 256GB, 512GB" },
+      { "key": "Camera", "value": "48MP Main Camera" },
+      { "key": "Chip", "value": "A16 Bionic" },
+      { "key": "Color", "value": "Space Black" }
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "M001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co.com/r59GxmC/female-hand-typing-keyboard-laptop.jpg",
+    "category": "Laptops",
+    "price": 119,
+    "description": "Apple MacBook Air with M2 chip, lightweight design, and impressive battery life.",
+    "specification": [
+      { "key": "Processor", "value": "Apple M2" },
+      { "key": "RAM", "value": "8GB" },
+      { "key": "Storage", "value": "256GB SSD" },
+      { "key": "Screen Size", "value": "13.6 inches" },
+      { "key": "Color", "value": "Midnight" }
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "SW001",
+    "product_title": "Apple Watch Series 8",
+    "product_image": "https://i.ibb.co.com/MVnrGz1/front-view-desk-dark-concept-with-copy-space.jpg",
+    "category": "Laptops",
+    "price": 399,
+    "description": "Apple Watch Series 8 with health tracking, ECG, and crash detection features.",
+    "specification": [
+      { "key": "Screen Size", "value": "1.9 inches" },
+      { "key": "Water Resistance", "value": "Yes" },
+      { "key": "Battery Life", "value": "18 hours" },
+      { "key": "Color", "value": "Starlight Aluminum" }
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/5TXKDx4/elegant-smartphone-composition-1.jpg",
+    "category": "Phones",
+    "price": 849,
+    "description": "Samsung Galaxy S23 with Snapdragon processor, excellent camera, and long battery life.",
+    "specification": [
+      { "key": "Screen Size", "value": "6.1 inches" },
+      { "key": "Storage Options", "value": "128GB, 256GB" },
+      { "key": "Battery", "value": "3900mAh" },
+      { "key": "Color", "value": "Phantom Black" }
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "A001",
+    "product_title": "Wireless Earbuds",
+    "product_image": "https://i.ibb.co.com/jMtqXBw/images.jpg",
+    "category": "Accessories",
+    "price": 79,
+    "description": "Noise-cancelling wireless earbuds with high-quality sound and fast charging.",
+    "specification": [
+      { "key": "Battery Life", "value": "Up to 24 hours with case" },
+      { "key": "Bluetooth Version", "value": "5.2" },
+      { "key": "Water Resistance", "value": "IPX4" },
+      { "key": "Color", "value": "White" }
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "A002",
+    "product_title": "Laptop Stand",
+    "product_image": "https://i.ibb.co.com/s5wDXZq/images-1.jpg",
+    "category": "Accessories",
+    "price": 59,
+    "description": "Adjustable and foldable laptop stand for comfortable viewing angles.",
+    "specification": [
+      { "key": "Material", "value": "Aluminum" },
+      { "key": "Compatibility", "value": "Up to 15.6 inches" },
+      { "key": "Color", "value": "Silver" },
+      { "key": "Weight", "value": "0.5kg" }
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "SW002",
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image": "https://i.ibb.co.com/yYhg26v/download.jpg",
+    "category": "Accessories",
+    "price": 279,
+    "description": "Samsung Galaxy Watch 5 with fitness tracking, sleep monitoring, and durable design.",
+    "specification": [
+      { "key": "Battery Life", "value": "Up to 2 days" },
+      { "key": "Screen Size", "value": "1.4 inches" },
+      { "key": "Water Resistance", "value": "5 ATM" },
+      { "key": "Color", "value": "Graphite" }
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "M002",
+    "product_title": "MacBook Pro M1",
+    "product_image": "https://i.ibb.co.com/bz1LX9V/laptop-device-with-minimalist-monochrome-background.jpg",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Apple MacBook Pro with M1 chip, powerful performance, and Retina display.",
+    "specification": [
+      { "key": "Processor", "value": "Apple M1" },
+      { "key": "RAM", "value": "8GB" },
+      { "key": "Storage", "value": "256GB SSD" },
+      { "key": "Screen Size", "value": "13.3 inches" },
+      { "key": "Color", "value": "Space Gray" }
+    ],
+    "availability": false,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_title": "iPhone 13",
+    "product_image": "https://i.ibb.co.com/YN4h8YB/3072209.jpg",
+    "category": "Phones",
+    "price": 799,
+    "description": "Apple iPhone 13 with dual-camera system, A15 Bionic chip, and impressive battery life.",
+    "specification": [
+      { "key": "Screen Size", "value": "6.1 inches" },
+      { "key": "Storage Options", "value": "128GB, 256GB" },
+      { "key": "Camera", "value": "12MP Dual Camera" },
+      { "key": "Chip", "value": "A15 Bionic" },
+      { "key": "Color", "value": "Blue" }
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]
